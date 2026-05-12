@@ -1,0 +1,40 @@
+{
+  "name": "frontend-slides",
+  "version": "1.0.0",
+  "description": "Zero-dependency HTML presentation generator with curated visual themes, PPT conversion, and export helpers.",
+  "author": {
+    "name": "zarazhangrui",
+    "url": "https://github.com/zarazhangrui"
+  },
+  "homepage": "https://github.com/zarazhangrui/frontend-slides",
+  "repository": "https://github.com/zarazhangrui/frontend-slides",
+  "license": "MIT",
+  "keywords": [
+    "presentations",
+    "slides",
+    "html",
+    "design",
+    "powerpoint",
+    "animations"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Frontend Slides",
+    "shortDescription": "Create animation-rich HTML presentations and convert PowerPoint files.",
+    "longDescription": "Frontend Slides helps Codex generate self-contained browser presentations with distinctive visual presets, strict viewport fitting rules, PPTX extraction, PDF export, and optional Vercel deployment.",
+    "developerName": "zarazhangrui",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write",
+      "Browser"
+    ],
+    "websiteURL": "https://github.com/zarazhangrui/frontend-slides",
+    "defaultPrompt": [
+      "Create a pitch deck as an HTML slideshow.",
+      "Convert this PPTX into a web presentation.",
+      "Improve this HTML slide deck's visual design."
+    ],
+    "brandColor": "#00D4FF"
+  }
+}
