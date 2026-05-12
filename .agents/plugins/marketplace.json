@@ -1,0 +1,20 @@
+{
+  "name": "frontend-slides-codex",
+  "interface": {
+    "displayName": "Frontend Slides Codex"
+  },
+  "plugins": [
+    {
+      "name": "frontend-slides",
+      "source": {
+        "source": "local",
+        "path": "./plugins/frontend-slides"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
