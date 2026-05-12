@@ -1,4 +1,4 @@
-﻿# Frontend Slides for Codex
+# Frontend Slides for Codex
 
 A Codex-compatible packaging layer for `zarazhangrui/frontend-slides`.
 
